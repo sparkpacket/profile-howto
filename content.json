@@ -1,12 +1,12 @@
 {
   "title": "sparkpacket — How to make your own profile",
   "subtitle": "sparkpacket profile",
-  "intro": "wow..",
+  "intro": "wow.",
   "background": ["air.png"],
   "sections": [
     {
       "heading": "Location",
-      "text": "Copy and paste the html code below into a website hosting place, such as github, name it index.html, then copy and paste the code to the left into a file called content.json, then make a folder called image and then place your images there.",
+      "text": "github.com/sparkpacket/profile-howto, copy and paste the code from there.
       "images": ["smile.jpeg"]
     },
   ],
