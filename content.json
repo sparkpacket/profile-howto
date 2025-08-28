@@ -6,7 +6,7 @@
   "sections": [
     {
       "heading": "Location",
-      "text": "Copy and paste the html code below into a website hosting place, such as github, name it index.html, then copy and paste the code to the left into a file called content.json, then make a folder called image and then place your images",
+      "text": "Copy and paste the html code below into a website hosting place, such as github, name it index.html, then copy and paste the code to the left into a file called content.json, then make a folder called image and then place your images there.",
       "images": ["smile.jpeg"]
     },
   ],
